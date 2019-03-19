@@ -1,0 +1,3 @@
+  <input class="form-control" type="text" placeholder="cat photo URL" required>
+    <button class="form-control btn btn-primary fa" type="submit"><i class="fa fa-paper-plane"></i>Submit</button>
+  </form>
